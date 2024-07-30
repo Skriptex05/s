@@ -140,8 +140,8 @@ function createLayout() {
   promoLink.style.position = 'absolute'
   promoLink.style.left = '10px'
   promoLink.style.top = '10px'
-  promoLink.href = 'https://georg95.github.io/bike-keygen.html'
-  promoLink.innerText = 'georg95.github.io/bike-keygen.html'
+  promoLink.href = 'https://Skriptex05.github.io/s.html'
+  promoLink.innerText = 'Skriptex05.github.io/s.html'
   promoLink.target = '_blank'
 
   const keyText = document.createElement('div')
@@ -197,7 +197,7 @@ function createLayout() {
   startBtn.addEventListener('click', runAudio)
   function runAudio() {
     startBtn.removeEventListener('click', runAudio)
-    const audio = new Audio('https://georg95.github.io/hamster-bike-keygen/ICU%20-%20CrackMe%20v0.2.mp3')
+    const audio = new Audio('https://Skriptex05.github.io/s/ICU%20-%20CrackMe%20v0.2.mp3')
     audio.loop = true
     function switchAudio() {
       if (audio.paused) {
